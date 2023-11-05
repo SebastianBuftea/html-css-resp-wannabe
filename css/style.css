@@ -153,6 +153,22 @@ img {
     .why-us .col-right{
         width: 100%;
     }
+    .steps .col {
+        width:100%;
+    }
+   .col-left, .card{
+    margin-bottom: 70px;
+   }
+   .why-us{
+    background-color: black;
+    padding: 30px;
+   }
    
+   .why-us, .steps{
+    margin-bottom: 0;
+   }
+   li:nth-child(3){
+    margin-bottom: 0;
+
+   }
 }
- 
